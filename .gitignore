@@ -1,0 +1,17 @@
+# C++ Compiled files
+*.out
+*.o
+*.exe
+*.dll
+*.so
+build/
+bin/
+
+# IDE & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Node modules
+node_modules/
